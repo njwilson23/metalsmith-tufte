@@ -1,0 +1,11 @@
+{
+  "name": "metalsmith-tufte",
+  "version": "0.1.2",
+  "description": "Metalsmith helpers for using Tufte-CSS",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "njwilson23@gmail.com",
+  "license": "MIT"
+}
