@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-tufte",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Metalsmith helpers for using Tufte-CSS",
   "main": "lib/index.js",
   "scripts": {
